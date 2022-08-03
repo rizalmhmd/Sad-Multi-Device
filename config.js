@@ -9,7 +9,7 @@ global.owner = [
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = ['6281333154367'] // Premium user has unlimited limit
-global.lolkey = 'ee99d6df5f8c5eaf7667a90d'
+global.lolkey = 'azzbot'
 global.xkey = '9db5a5373433c015'
 global.APIs = { // API Prefix
   // name: 'https://website'
